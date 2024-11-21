@@ -41,11 +41,10 @@ button:hover{
 }
 
 p {
-  background-color: rgb(129, 48, 75);
   height: 50px;
-  color: white;
+  color: green;
   text-align: center;
-  font-weight: 500;
+  font-weight: bold;
   font-size: 20px;
   margin: 5px 0 0 0;
 }

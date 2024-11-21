@@ -13,5 +13,7 @@ myButton.onclick = function() {
     myOutput.innerHTML = inputValue;
     // Clear the input field 
     myInput.value = "";
+  } else {
+    myOutput.innerHTML = "Error: Please enter something!";
   }
 }
